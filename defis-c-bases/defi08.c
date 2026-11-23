@@ -12,7 +12,6 @@ int main(void)
 
 	sum = 0;
 	size = sizeof(array) / 4;
-
 	printf("Valeurs :");
 	i = 0;
 	while (i < size)
@@ -21,8 +20,7 @@ int main(void)
 		sum += array[i];
 		i++;
 	}
-	printf("\n");
 	avr = sum / size;
-	printf("Somme : %d\nMoyenne : %.2f\n", sum, avr);
+	printf("\nSomme : %d\nMoyenne : %.2f\n", sum, avr);
 	return (0);
 }
