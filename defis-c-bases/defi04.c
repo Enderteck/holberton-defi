@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Desc
+ * main - Gives feedback on a mark, between 0 & 20
  *
  * Return: 0 when program is done
  */

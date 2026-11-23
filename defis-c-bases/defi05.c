@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Desc
+ * main - Prints the number of ints in an array
  *
  * Return: 0 when program is done
  */
