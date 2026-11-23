@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints the number of ints in an array
+ * main - Prints the number of ints in an array of arrays & their sum
  *
  * Return: 0 when program is done
  */
